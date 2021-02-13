@@ -1,5 +1,5 @@
 # UDP Pinger:
-Built a simple client and server application to learn the basics of pinging.
+A simple client and server application to learn the basics of pinging.
 
 # Technologies Used:
 Python and Socket module.
