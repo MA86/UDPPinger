@@ -2,7 +2,7 @@
 
 A simple client and server application implemented to learn the basics of pinging.
 
-## Technologies Used:
+## Technologies Used
 
 Python and Socket module.
 
